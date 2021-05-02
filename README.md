@@ -1,3 +1,4 @@
+<img src="https://github.com/FlameFenix/Certificates-Softuni/blob/main/Csharp.png?raw=true">
 <h1> C# Fundamentals Module </h1>
 <p> This folder contains various task solutions for the C# Fundamentals Courses at <a href="https://softuni.bg/">Software University</a>. <p>
 <h2> C# Fundamentals </h2>
